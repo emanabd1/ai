@@ -1,0 +1,9 @@
+
+{
+  "name": "KnowledgeBot Pro",
+  "description": "A modern AI-powered RAG chatbot platform that allows businesses to build an intelligent knowledge base and deploy a custom chatbot on their landing page.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
