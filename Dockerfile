@@ -11,7 +11,7 @@ RUN npm install
 
 COPY . .
 
-# Silver requires --no-install-recommends for any apt-get commands
+
 RUN apt-get update && apt-get install -y --no-install-recommends \
     curl \
     && rm -rf /var/lib/apt/lists/*
