@@ -1,4 +1,4 @@
-# Use a specific, pinned version of Node.js as the base image
+
 FROM node:20.11.0
 
 # Set the working directory inside the container
