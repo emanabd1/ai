@@ -8,7 +8,7 @@ COPY package.json ./
 
 RUN npm install
 
-# Copy the rest of your project files
+
 COPY . .
 
 # Silver requires --no-install-recommends for any apt-get commands
