@@ -16,5 +16,5 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     curl \
     && rm -rf /var/lib/apt/lists/*
 
-# The command to start your development server
+
 CMD ["npm", "run", "dev"]
