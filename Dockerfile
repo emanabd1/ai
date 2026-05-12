@@ -1,7 +1,6 @@
 
 FROM node:20.11.0
 
-# Set the working directory inside the container
 WORKDIR /app
 
 # Copy package.json first
