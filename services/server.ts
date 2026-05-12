@@ -2,11 +2,6 @@
 import { KnowledgeDocument, User, Message } from '../types';
 import { GoogleGenAI } from "@google/genai";
 
-/**
- * THE BACKEND SERVER
- * Stable data persistence layer.
- * In this simulation, data is stored in LocalStorage.
- */
 
 const DB_KEY = 'knowledge_bot_pro_stable_db';
 

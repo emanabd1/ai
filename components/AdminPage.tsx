@@ -52,7 +52,7 @@ export const AdminPage: React.FC = () => {
 
   const handleMockUpload = async () => {
     setIsProcessing(true);
-    // Simulate picking a file and extraction latency
+    
     setTimeout(async () => {
       const mockFileName = `Enterprise_Strategy_${Math.floor(Math.random()*100)}.pdf`;
       const mockExtractedText = "This document outlines the strategic objectives for KnowledgeBot Pro. Our primary mission is to democratize intelligence via RAG (Retrieval Augmented Generation) architecture. We aim for 100% uptime and sub-200ms response times.";
