@@ -3,7 +3,6 @@ FROM node:20.11.0
 
 WORKDIR /app
 
-# Copy package.json first
 COPY package.json ./
 
 # Install dependencies using npm
