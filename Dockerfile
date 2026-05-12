@@ -5,7 +5,7 @@ WORKDIR /app
 
 COPY package.json ./
 
-# If you have a package-lock.json, Silver prefers 'npm ci'
+
 RUN npm install
 
 # Copy the rest of your project files
