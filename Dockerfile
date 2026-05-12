@@ -5,7 +5,6 @@ WORKDIR /app
 
 COPY package.json ./
 
-# Install dependencies using npm
 # If you have a package-lock.json, Silver prefers 'npm ci'
 RUN npm install
 
