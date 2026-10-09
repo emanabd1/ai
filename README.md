@@ -34,7 +34,7 @@ Manage your organization's proprietary data blocks.
 - **Storage Blocks:** Add, edit, and index text documents for RAG processing.
 - **Strict Access Control:** Administrator rights are exclusively locked to authorized personnel (e.g., `emanabdulsemed4398@gmail.com`).
 
-### 🤖 Gemini 3 Powered Chat
+### Gemini 3 Powered Chat
 A sophisticated floating widget that leverages the latest LLM capabilities.
 - **RAG-Grounded Answers:** Responses are strictly limited to the data provided in the Intelligence Hub to ensure zero-hallucination.
 - **Streamlined UI:** Minimizable chat interface with smooth typing animations and message threading.
