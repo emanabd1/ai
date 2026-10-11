@@ -28,7 +28,7 @@ A dedicated engineering pane for real-time monitoring of the Production Runtime,
 
 ## ✨ Key Features
 
-### 🏢 Intelligence Hub (Admin Panel)
+###  Intelligence Hub (Admin Panel)
 Manage your organization's proprietary data blocks.
 - **Client Vault:** A secure "folder" containing all user identities and registration metadata.
 - **Storage Blocks:** Add, edit, and index text documents for RAG processing.
