@@ -1,4 +1,4 @@
-# 🧠 KnowledgeBot Enterprise Pro 2026
+#  KnowledgeBot Enterprise Pro 2026
 
 **KnowledgeBot Enterprise Pro 2026** is a state-of-the-art RAG (Retrieval-Augmented Generation) platform designed for high-performance business intelligence. It allows organizations to transform proprietary data into a secure, searchable, and actionable knowledge base powered by the Gemini 3 Flash engine.
 
